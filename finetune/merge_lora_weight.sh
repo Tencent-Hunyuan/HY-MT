@@ -1,0 +1,1 @@
+python3 merge_lora_weight.py --base_model_path /xxx/hunyuan_l_train/checkpoint-200 --adapter_model_path /xxx/runs/hunyuan_l_lora_train/checkpoint-200 --output_path /xxx/ckpts/merged_hunyuan_lora_weight --save_dtype bf16
