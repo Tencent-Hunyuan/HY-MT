@@ -44,7 +44,7 @@ Hunyuan Translation Model Version 1.5 includes a 1.8B translation model, HY-MT1.
 ## Performance
 
 <div align='center'>
-<img src="imgs/overall_performance.png" width = "80%" />
+<img src="imgs/overall_performance.png" width = "100%" />
 </div>
 You can refer to our technical report for more experimental results and analysis.
 
