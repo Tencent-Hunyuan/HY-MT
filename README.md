@@ -20,7 +20,7 @@
 </p>
 
 <p align="center">
-    <a href="https://github.com/Tencent-Hunyuan/HY-MT"><b>GITHUB</b></a>
+    <a href="https://github.com/Tencent-Hunyuan/HY-MT"><b>Github</b></a>
 </p>
 
 
