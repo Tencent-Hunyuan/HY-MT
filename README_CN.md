@@ -44,7 +44,7 @@
 
 ## 效果
 <div align='center'>
-<img src="imgs/overall_performance.png" width = "80%" />
+<img src="imgs/overall_performance.png" width = "100%" />
 </div>
 
 更多的实验效果和分析可以参考我们的[技术报告](./HY_MT1_5_Technical_Report.pdf)。
@@ -56,8 +56,10 @@
 | ----------- | ----------- |-----------
 | HY-MT1.5-1.8B  | 混元1.8B翻译模型 |🤗 [Model](https://huggingface.co/tencent/HY-MT1.5-1.8B)|
 | HY-MT1.5-1.8B-FP8 | 混元1.8B翻译模型，fp8量化    | 🤗 [Model](https://huggingface.co/tencent/HY-MT1.5-1.8B-FP8)|
+| HY-MT1.5-1.8B-GPTQ-Int4 | 混元1.8B翻译模型, int4 量化    | 🤗 [Model](https://huggingface.co/tencent/HY-MT1.5-1.8B-GPTQ-Int4)|
 | HY-MT1.5-7B | 混元7B翻译模型    | 🤗 [Model](https://huggingface.co/tencent/HY-MT1.5-7B)|
 | HY-MT1.5-7B-FP8 | 混元7B翻译模型，fp8量化     | 🤗 [Model](https://huggingface.co/tencent/HY-MT1.5-7B-FP8)|
+| HY-MT1.5-7B-GPTQ-Int4 | 混元7B翻译模型, int4 量化     | 🤗 [Model](https://huggingface.co/tencent/HY-MT1.5-7B-GPTQ-Int4)|
 
 
 ## Prompts
