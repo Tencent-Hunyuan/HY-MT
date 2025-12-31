@@ -56,10 +56,12 @@
 | ----------- | ----------- |-----------
 | HY-MT1.5-1.8B  | 混元1.8B翻译模型 |🤗 [Model](https://huggingface.co/tencent/HY-MT1.5-1.8B)|
 | HY-MT1.5-1.8B-FP8 | 混元1.8B翻译模型，fp8量化    | 🤗 [Model](https://huggingface.co/tencent/HY-MT1.5-1.8B-FP8)|
-| HY-MT1.5-1.8B-GPTQ-Int4 | 混元1.8B翻译模型, int4 量化    | 🤗 [Model](https://huggingface.co/tencent/HY-MT1.5-1.8B-GPTQ-Int4)|
+| HY-MT1.5-1.8B-GPTQ-Int4 | 混元1.8B翻译模型， int4 量化    | 🤗 [Model](https://huggingface.co/tencent/HY-MT1.5-1.8B-GPTQ-Int4)|
+| HY-MT1.5-1.8B-GGUF | 混元1.8B翻译模型， llama.cpp    | 🤗 [Model](https://huggingface.co/tencent/HY-MT1.5-1.8B-GGUF)|
 | HY-MT1.5-7B | 混元7B翻译模型    | 🤗 [Model](https://huggingface.co/tencent/HY-MT1.5-7B)|
 | HY-MT1.5-7B-FP8 | 混元7B翻译模型，fp8量化     | 🤗 [Model](https://huggingface.co/tencent/HY-MT1.5-7B-FP8)|
-| HY-MT1.5-7B-GPTQ-Int4 | 混元7B翻译模型, int4 量化     | 🤗 [Model](https://huggingface.co/tencent/HY-MT1.5-7B-GPTQ-Int4)|
+| HY-MT1.5-7B-GPTQ-Int4 | 混元7B翻译模型， int4 量化     | 🤗 [Model](https://huggingface.co/tencent/HY-MT1.5-7B-GPTQ-Int4)|
+| HY-MT1.5-7B-GGUF | 混元7B翻译模型， llama.cpp    | 🤗 [Model](https://huggingface.co/tencent/HY-MT1.5-7B-GGUF)|
 
 
 ## Prompts
