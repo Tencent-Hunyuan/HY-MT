@@ -24,6 +24,12 @@
 </p>
 
 
+**NOTICE:**
+
+We are excited to announce our official partnership with WMT26. We welcome all participants to use our HY-MT model during the competition. Teams that use HY-MT and achieve notable results will be eligible for **cash prizes**. For more details, please contact us at hunyuan@tencent.com.
+
+To help you get started with HY-MT training more quickly, we have provided a **Training Tutorial**. You can access it via the [link](#Train-with-LLaMAFactory).
+
 ## Model Introduction
 
 Hunyuan Translation Model Version 1.5 includes a 1.8B translation model, HY-MT1.5-1.8B, and a 7B translation model, HY-MT1.5-7B. Both models focus on supporting mutual translation across 33 languages and incorporating 5 ethnic and dialect variations. Among them, HY-MT1.5-7B is an upgraded version of our WMT25 championship model, optimized for explanatory translation and mixed-language scenarios, with newly added support for terminology intervention, contextual translation, and formatted translation. Despite having less than one-third the parameters of HY-MT1.5-7B, HY-MT1.5-1.8B delivers translation performance comparable to its larger counterpart, achieving both high speed and high quality. After quantization, the 1.8B model can be deployed on edge devices and support real-time translation scenarios, making it widely applicable.
